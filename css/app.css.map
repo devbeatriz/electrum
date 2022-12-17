@@ -1,1 +1,1 @@
-{"version":3,"sourceRoot":"","sources":["../sass/1-base/bases.sass"],"names":[],"mappings":"AAAA;EACE;EACA","file":"app.css"}
+{"version":3,"sourceRoot":"","sources":["../sass/1-base/_reset.sass","../sass/1-base/_variables.sass"],"names":[],"mappings":"AAEA;EACE;;;AAEF;EACE;EACA;EACA;EACA;EACA;;;AAEF;EACE,OCbc;;ADed;EACE;EACA;;AAEA;EACE,OCpBU;;;ADsBhB;EACE;EACA;;;AAEF;EACE","file":"app.css"}
